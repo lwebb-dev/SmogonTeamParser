@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmogonTeamParser", "SmogonTeamParser\SmogonTeamParser.csproj", "{BA9A676F-1534-4E9C-B37E-156034495D3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA9A676F-1534-4E9C-B37E-156034495D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9A676F-1534-4E9C-B37E-156034495D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9A676F-1534-4E9C-B37E-156034495D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9A676F-1534-4E9C-B37E-156034495D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C4D777B-7998-441F-BE97-DCA3307C2CAB}
+	EndGlobalSection
+EndGlobal
